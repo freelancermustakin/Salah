@@ -18,10 +18,10 @@ public class AboutActivity extends Activity {
 
         /*TextView tv = findViewById(R.id.about_textview);
         tv.setMovementMethod(new ScrollingMovementMethod());*/
-        freelancermustakin();
+        addMore();
     }
 
-    private void freelancermustakin() {
+    private void addMore() {
 
     }
 
